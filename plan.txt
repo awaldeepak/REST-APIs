@@ -1,0 +1,8 @@
++++ Register a user
++++ Login a user
+--- Who am I
+--- Add a new product
+--- Update a product
+--- Get all products
+--- Get a single product
+--- Delete a product
